@@ -1,7 +1,7 @@
 name: jamesfarha
 favicon: null
-layout_spectrum: 0
-typography_spectrum: 0.49298
+layout_spectrum: 0.66839
+typography_spectrum: 0.24836
 cta:
   domain: null
   bucket: null
@@ -22,7 +22,7 @@ color:
     - '#b79687'
     - '#9ccaff'
   brandStrength: 0.5
-  lightness: 0.9897954524494708
+  lightness: 0.5
   saturation: 0.4502453643362969
-  rhythmicContrast: 0.1661070347763598
+  rhythmicContrast: 0.75
 purpose: []
