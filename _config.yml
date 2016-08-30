@@ -1,4 +1,4 @@
-name: jamesfarha
+name: James Farha
 favicon: null
 layout_spectrum: 0.66839
 typography_spectrum: 0.24836
@@ -17,11 +17,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#b9c6d9'
-    - '#94a3c0'
-    - '#59687f'
-    - '#364059'
-    - '#8e8381'
+    - '#0e0d0b'
+    - '#cec4ba'
+    - '#7b6953'
+    - '#8692ce'
+    - '#830918'
   brandStrength: 0.8125
   lightness: 0.5
   saturation: 0.1875
