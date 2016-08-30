@@ -1,20 +1,4 @@
-name: James Farha
-favicon: null
-layout_spectrum: 0.66839
 typography_spectrum: 0.24836
-title: Writing | Essays | Ideas
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: UA-73081717-1
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#0e0d0b'
@@ -26,4 +10,20 @@ color:
   lightness: 0.5625
   saturation: 0.625
   rhythmicContrast: 0.75
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.66839
+analytics:
+  google: UA-73081717-1
+  facebook: null
+  twitter: null
+name: James Farha
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: null
+title: James Farha
 purpose: []
